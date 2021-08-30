@@ -7,5 +7,4 @@ const boost = true;
 
    message.channel.send(nitro(boost));
   
-  }
 }
