@@ -1,3 +1,3 @@
 # NitroSniper<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/338b34f3-e6bc-4da6-9a99-79041eca57c5/de69ubk-db3c1251-1805-4f59-8974-c4d12133c4c3.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzMzOGIzNGYzLWU2YmMtNGRhNi05YTk5LTc5MDQxZWNhNTdjNVwvZGU2OXViay1kYjNjMTI1MS0xODA1LTRmNTktODk3NC1jNGQxMjEzM2M0YzMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.fjOvIP8_zCLdUKxOTZGcGQGwoUwy71Py4poHtZczq1o" width="50">
 
-##Este es un código para que lo pongas a tu bot para crear un generador de Nitro
+## Código que generar códigos de **Discord Nitro**
